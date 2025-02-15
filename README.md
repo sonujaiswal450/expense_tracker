@@ -27,7 +27,7 @@ Matplotlib (For Data Visualization)
 # Installation
 
 # 1.Clone this repository:
-  git clone https://github.com/your-username/expense-tracker.git
+ https://github.com/sonujaiswal450/expense_tracker.git
 # 2.Navigate to the project directory:
   cd expense_tracker
 # 3.Install dependencies:
