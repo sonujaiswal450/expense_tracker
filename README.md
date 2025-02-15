@@ -42,8 +42,10 @@ Matplotlib (For Data Visualization)
  5.Click "Analyze Expenses" to visualize spending patterns.<br>
 
 # Screenshots
+![Expense tracker application UI](https://github.com/sonujaiswal450/expense_tracker/blob/main/assets/Screenshot%202025-02-15%20135137.png)
+![Expense tracker application UI](https://github.com/sonujaiswal450/expense_tracker/blob/main/assets/Screenshot%202025-02-15%20135154.png)
+![Expense tracker application UI](https://github.com/sonujaiswal450/expense_tracker/blob/main/assets/Screenshot%202025-02-15%20135233.png)
 
-(Add screenshots of your application interface here.)
 
 # Contributing
  Feel free to contribute to the project by submitting issues or pull requests.
